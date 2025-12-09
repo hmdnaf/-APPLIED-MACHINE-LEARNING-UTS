@@ -1,4 +1,8 @@
-# Prediksi Nilai Akhir Mahasiswa Menggunakan Machine Learning dan Deployment Berbasis Gradio
+# Prediksi Nilai Akhir Mahasiswa Menggunakan Machine Learning dan Deployment Berbasis Gradio 2023
+
+NAMA: HAMDAN AL FATTAH
+NIM: 105841108323
+KELAS: 5AI-A
 
 
 ## 🚀 Gambaran Umum Proyek
@@ -36,12 +40,12 @@ Menggunakan Gradio sebagai antarmuka interaktif untuk melakukan prediksi secara 
 - Jupyter Notebook
 
 ## 📂 Struktur Repository
-├── Dataset Pelatihan.csv       # Dataset yang digunakan
-├── reg_pipeline_nilai.joblib   # Model pipeline untuk prediksi nilai akhir
-├── model_logreg_kelulusan.pkl  # Model prediksi kelulusan
-├── preprocessor_deployment.pkl # Preprocessor (encoding + scaling)
-├── notebook.ipynb              # Notebook CRISP-DM (pemodelan lengkap)
-├── app_gradio.py               # Aplikasi Gradio untuk prediksi
+├──1 Dataset Pelatihan.csv       # Dataset yang digunakan
+├──2 reg_pipeline_nilai.joblib   # Model pipeline untuk prediksi nilai akhir
+├──3 model_logreg_kelulusan.pkl  # Model prediksi kelulusan
+├──4 preprocessor_deployment.pkl # Preprocessor (encoding + scaling)
+├──5 notebook.ipynb              # Notebook CRISP-DM (pemodelan lengkap)
+├──6 app_gradio.py               # Aplikasi Gradio untuk prediksi
 └── README.md                   # Dokumentasi proyek
 
 ## ⚙️ Metodologi CRISP-DM

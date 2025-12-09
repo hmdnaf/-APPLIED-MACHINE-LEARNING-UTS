@@ -40,13 +40,13 @@ Menggunakan Gradio sebagai antarmuka interaktif untuk melakukan prediksi secara 
 - Jupyter Notebook
 
 ## 📂 Struktur Repository
-├── Dataset Pelatihan.csv       
-├── reg_pipeline_nilai.joblib 
-├── model_logreg_kelulusan.pkl  
-├── preprocessor_deployment.pkl 
-├── notebook.ipynb             
-├── app_gradio.py               
-└── README.md                
+# ├── Dataset Pelatihan.csv       
+# ├── reg_pipeline_nilai.joblib 
+# ├── model_logreg_kelulusan.pkl  
+# ├── preprocessor_deployment.pkl 
+# ├── notebook.ipynb             
+# ├── app_gradio.py               
+# └── README.md                
 
 ## ⚙️ Metodologi CRISP-DM
 

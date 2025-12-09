@@ -42,11 +42,9 @@ Menggunakan Gradio sebagai antarmuka interaktif untuk melakukan prediksi secara 
 ## 📂 Struktur Repository
 ```
 ├── Dataset Pelatihan.csv       # Dataset yang digunakan
-├── reg_pipeline_nilai.joblib   # Model pipeline untuk prediksi nilai akhir
 ├── model_logreg_kelulusan.pkl  # Model prediksi kelulusan
 ├── preprocessor_deployment.pkl # Preprocessor (encoding + scaling)
-├── notebook.ipynb              # Notebook CRISP-DM (pemodelan lengkap)
-├── app_gradio.py               # Aplikasi Gradio untuk prediksi
+├── kode_program.ipynb          # Notebook CRISP-DM (pemodelan lengkap)
 └── README.md                   # Dokumentasi proyek
 ```
 

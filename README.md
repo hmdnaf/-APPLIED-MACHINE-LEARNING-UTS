@@ -19,7 +19,7 @@ Menghasilkan metrik seperti akurasi, confusion matrix, dan classification report
 
 - Model Deployment
 Menggunakan Gradio sebagai antarmuka interaktif untuk melakukan prediksi secara real-time.
-##🛠 Teknologi yang Digunakan
+## 🛠 Teknologi yang Digunakan
 
 - Python 3.x
 
